@@ -1,0 +1,11 @@
+{
+  "base_url": "https://automationexercise.com",
+  "browser": "chrome",
+  "headless": false,
+  "timeout": 10,
+  "jira": {
+    "base_url": "https://yoursite.atlassian.net",
+    "project_key": "SES",
+    "issue_type": "Bug"
+  }
+}

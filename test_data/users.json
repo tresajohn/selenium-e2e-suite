@@ -1,0 +1,13 @@
+{
+  "valid_user": {
+    "email": "YOUR_REGISTERED_EMAIL",
+    "password": "YOUR_PASSWORD"
+  },
+  "invalid_user": {
+    "email": "wrong@example.com",
+    "password": "wrongpass"
+  },
+  "new_user": {
+    "name": "Test User QA"
+  }
+}
